@@ -7,4 +7,3 @@ librosa
 streamlit-option-menu
 pycaret
 scikit-image
-scipy
